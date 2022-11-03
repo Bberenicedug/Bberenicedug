@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m PhD student in biology interested in transcriptomics 🔭 
+### I’m a PhD student in biology interested in transcriptomics 🔭 
 ### Nice to meet you !
 
 <!--
