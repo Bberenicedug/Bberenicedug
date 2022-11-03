@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I’m a biology PhD student interested in transcriptomics 🔭 
+### Nice to meet you !
 
 <!--
 **Bberenicedug/Bberenicedug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
